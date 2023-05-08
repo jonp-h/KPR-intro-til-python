@@ -36,7 +36,7 @@ noe annet, f.eks. VS Code.
 
 # 3. Sette opp oppgavesystemet
 Neste er å hente ned oppgavene:
-1. Gå til https://github.com/jonp-h/tree/main/vaar23-python-del1
+1. Gå til https://github.com/jonp-h/Vaar23-python-del1
 2. På nettsiden du kommer inn på er det en blå knapp der det står Clone (se Figur 2). Trykk
 på den og kopier lenken under Clone with HTTPS.
 3. Åpne VS Code og pass på at ingen mapper er åpne (Trykk på File og Close Folder hvis
