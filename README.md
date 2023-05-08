@@ -60,5 +60,3 @@ prosedyre som over igjen, men i stedet gjøre følgende:
 menyen (se Figur 5).
 4. Nå henter VS Code ned alle nye filer som har blitt publisert på serveren. De vil dukke opp
 i filvinduet når denne prosessen er ferdig.
-
-Hallo - Marcus
