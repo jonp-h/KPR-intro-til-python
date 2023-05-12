@@ -1,5 +1,7 @@
-# Vaar23-python-del1
+# Du skal laste ned (klone repoet) ved hjelp av git
+## Under finner du guide på hvordan du laster ned oppgavene
 
+---
 
 # 1. Installere Visual Studio Code og utvidelser
 Første steg er å installere VS Code. Dette er som å installere de fleste andre programmer:
@@ -31,23 +33,23 @@ bruke Git selv akkurat nå, men for å laste ned oppgavene lokalt på datamaskin
 2. Kjør installasjonsprogrammet. Så å si alle valg kan du bruke standarden. Eneste jeg anbefaler
 å endre er da du kan velge en tekst editor å bruke for git. Standarden her er vim, som
 ikke er det mest brukervenlige, så om du ikke har brukt det før anbefaler jeg å endre til
-noe annet, f.eks. VS Code.
+noe annet, f.eks. VS Code eller git Bash. Det grafiske brukergrensesnittet i VS Code er ganske godt, og det finner du ved knappen "Source control"
 3. Ellers er det bare å kjøre gjennom installasjonen uten å endre noe.
 
 # 3. Sette opp oppgavesystemet
 Neste er å hente ned oppgavene:
 1. Gå til https://github.com/jonp-h/Vaar23-python-del1
-2. På nettsiden du kommer inn på er det en blå knapp der det står Clone (se Figur 2). Trykk
+2. På nettsiden du kommer inn på er det en blå knapp der det står Clone. Trykk
 på den og kopier lenken under Clone with HTTPS.
 3. Åpne VS Code og pass på at ingen mapper er åpne (Trykk på File og Close Folder hvis
 den er tilgjengelig).
 4. Gå til Source Control-vinduet i VS Code. Dette er knappen på venstre side med tre sirkler
-og streker i mellom (se Figur 3).
+og streker i mellom.
 5. I menyen som åpnes trykker du på Clone Repository.
 6. I tekstfeltet som popper opp limer du inn lenka du kopierte i sted og trykker enter.
 7. En filbehandler åpnes opp. Her velger du hvor du vil lagre øvingene i faget. Plasseringen
 har ingen betydning, men det er lurt å velge et sted du husker selv.
-8. Nå lastes øvingene ned. Når det er ferdig får du opp en popup som i Figur 4. Trykk på
+8. Nå lastes øvingene ned. Når det er ferdig får du opp en popup. Trykk på
 Open.
 9. Du skal nå komme inn i et VS Code-vindu som inneholder filene til øvingsopplegget.
 
@@ -55,8 +57,8 @@ Open.
 Underveis i faget legges flere øvinger ut. For å hente ned de nye skal du IKKE følge samme
 prosedyre som over igjen, men i stedet gjøre følgende:
 1. Pass på at VS Code er åpnet i øvingsmappa.
-2. Gå inn i Version Control-vinduet i VS Code (Figur 3).
+2. Gå inn i Version Control-vinduet i VS Code.
 3. Trykk på de tre prikkene øverst i høyre hjørne i sidebaren som dukker opp, og Pull i den
-menyen (se Figur 5).
+menyen.
 4. Nå henter VS Code ned alle nye filer som har blitt publisert på serveren. De vil dukke opp
 i filvinduet når denne prosessen er ferdig.
