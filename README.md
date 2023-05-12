@@ -1,4 +1,5 @@
-# Vaar23-python-del1
+# Du skal laste ned (klone repoet) ved hjelp av git
+## Under finner du guide på hvordan du laster ned oppgavene
 
 
 # 1. Installere Visual Studio Code og utvidelser
