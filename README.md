@@ -1,5 +1,12 @@
+# Velkommen til GitHub og første introduksjon til Python
+#### Python er for mange det første steget inn i programmering, og er et greit og oversiktig kodespråk å starte med.
+#### Denne introduksjonen og øvingsoppgavene går gjennom de fleste viktige konsepter som en utvikler må forstå, med andre ord; skal du satse på utvikling bør du forstå alle konseptene som blir gjennomgått her!
+
+#### Lykke til!
+
+
 # Du skal laste ned (klone repoet) ved hjelp av git
-## Under finner du guide på hvordan du laster ned oppgavene
+### Under finner du guide på hvordan du laster ned oppgavene
 
 ---
 
@@ -38,8 +45,8 @@ noe annet, f.eks. VS Code eller git Bash. Det grafiske brukergrensesnittet i VS 
 
 # 3. Sette opp oppgavesystemet
 Neste er å hente ned oppgavene:
-1. Gå til https://github.com/jonp-h/Vaar23-python-del1
-2. På nettsiden du kommer inn på er det en blå knapp der det står Clone. Trykk
+1. Gå til https://github.com/jonp-h/KPR-intro-til-python
+2. På nettsiden du kommer inn på er det en grønn knapp der det står Clone. Trykk
 på den og kopier lenken under Clone with HTTPS.
 3. Åpne VS Code og pass på at ingen mapper er åpne (Trykk på File og Close Folder hvis
 den er tilgjengelig).
@@ -47,11 +54,17 @@ den er tilgjengelig).
 og streker i mellom.
 5. I menyen som åpnes trykker du på Clone Repository.
 6. I tekstfeltet som popper opp limer du inn lenka du kopierte i sted og trykker enter.
-7. En filbehandler åpnes opp. Her velger du hvor du vil lagre øvingene i faget. Plasseringen
-har ingen betydning, men det er lurt å velge et sted du husker selv.
+7. En filbehandler åpnes opp. Her velger du hvor du vil lagre oppgavene i faget. Plasseringen
+har ingen betydning, men det er lurt å velge et sted du husker selv. Her vil jeg anbefale å opprette en KPR mappe om du ikke allerede har det i Tiller vgs mappen din.
 8. Nå lastes øvingene ned. Når det er ferdig får du opp en popup. Trykk på
 Open.
 9. Du skal nå komme inn i et VS Code-vindu som inneholder filene til øvingsopplegget.
+10. Videre kan det hende at du må installere flere jupyter-utvidelser (extensions), en .NET SDK samt, en python kernel, samt selve python språket fra Microsoft Store. (En god regel her er å bare trykke ok og videre helt til alt fungerer)
+11. Når du klarer å trykke på play-knappen ved en kodeboks eller ctrl+enter mens du har markert en kodeboks og **får output under boksen** (Se bilde under) har du gjort alt riktig! Bra jobbet!
+13. Da er det bare å sette i gang :)
+
+Slik skal output fra kodeboksene se ut når du har installert alt riktig:
+[output fra kodebokser](img/Kodeboks-med-output)
 
 # 5. NB! For å laste ned nye oppgaver kan du hente oppdateringer
 Underveis i faget kan det hende at flere oppgaver legges ut. For å hente ned de nye skal du IKKE følge samme
