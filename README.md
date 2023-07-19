@@ -53,8 +53,8 @@ har ingen betydning, men det er lurt å velge et sted du husker selv.
 Open.
 9. Du skal nå komme inn i et VS Code-vindu som inneholder filene til øvingsopplegget.
 
-# 5. NB! For å laste ned nye oppgaver henter du oppdateringer
-Underveis i faget legges flere øvinger ut. For å hente ned de nye skal du IKKE følge samme
+# 5. NB! For å laste ned nye oppgaver kan du hente oppdateringer
+Underveis i faget kan det hende at flere oppgaver legges ut. For å hente ned de nye skal du IKKE følge samme
 prosedyre som over igjen, men i stedet gjøre følgende:
 1. Pass på at VS Code er åpnet i øvingsmappa.
 2. Gå inn i Version Control-vinduet i VS Code.
