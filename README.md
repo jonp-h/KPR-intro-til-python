@@ -68,8 +68,11 @@ Neste er å hente ned oppgavene:
    Open.
 9. Du skal nå komme inn i et VS Code-vindu som inneholder filene til øvingsopplegget.
 10. Videre kan det hende at du må installere flere jupyter-utvidelser (extensions), en .NET SDK samt, en python kernel, samt selve python språket fra Microsoft Store. (En god regel her er å bare trykke ok og videre helt til alt fungerer)
-11. Når du klarer å trykke på play-knappen ved en kodeboks eller ctrl+enter mens du har markert en kodeboks og **får output under boksen** (Se bilde under) har du gjort alt riktig! Bra jobbet!
-12. Da er det bare å sette i gang :)
+11. Når du klarer å trykke på play-knappen ved en kodeboks eller ctrl+enter mens du har markert en kodeboks og **får output under boksen** (Se bilde under) har du gjort alt riktig! Merk at det kommer opp en boks på toppen av skjermen din som sier at du må velge en "kernel". Her skal du velge "Python Environments" og den nyeste versjonen av Python du har installert. (Har du ikke Python som et valgalternativ må du passe på at du har [installert Python](https://www.python.org/))
+12. Får du output fra kodeblokkene er alt satt opp riktig, og det er bare å sette i gang! :)
+
+Denne boksen kommer opp på toppen av skjermen din når du skal velge kernel:
+![img](./img/Velg-python-kernel.png)
 
 Slik skal output fra kodeboksene se ut når du har installert alt riktig:
 ![img](./img/Kodeboks-med-output.png)
