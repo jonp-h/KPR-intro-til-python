@@ -22,8 +22,7 @@ Første steg er å installere VS Code. Dette er som å installere de fleste andr
 3. Når installasjonsprogrammet er ferdig åpner du VS Code.
    Med VS Code installert er det på tide å installere to utvidelser: Python og Markdown All in
    One:
-4. Åpne utvidelsesvinduet i VS Code. Dette er de fire firkantene i menyen på venstre side (se
-   Figur 1).
+4. Åpne utvidelsesvinduet i VS Code. Dette er de fire firkantene i menyen på venstre side.
 5. I søkefeltet som dukker opp skriver du Python. I lista over utvidelser skal du da se en som
    bare heter Python.
 6. Trykk Install-knappen på Python-utvidelsen.
