@@ -14,7 +14,7 @@
 
 # 1. Installere Visual Studio Code og utvidelser
 
-Første steg er å installere VS Code. Dette er som å installere de fleste andre programmer:
+Første steg er å installere VS Code. Dette er som å installere de fleste andre programmer (har du allerede VSCODE kan du hoppe til steg 4):
 
 1. Last ned installasjonsprogrammet for VS Code fra https://code.visualstudio.com.
 2. Kjør installasjonsprogrammet. Standard-valg i installasjonsprosessen bør fungere fint, så
